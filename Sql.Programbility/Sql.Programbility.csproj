@@ -51,6 +51,7 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="dbo_addNum.sql" />
+    <Content Include="dbo_addNums.sql" />
     <Content Include="dbo_initDb.sql" />
     <Content Include="dbo_newDepartment.sql" />
   </ItemGroup>
